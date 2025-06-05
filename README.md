@@ -5,7 +5,7 @@ This project is an SQL implementation of an online book store database, located 
 # Project Overview:
 This project demonstrates the design and implementation of a relational database for an online book store, including tables for books, authors, customers, orders, and more.
 
-#Branch Information:
+# Branch Information:
 This project is located in the "my-new-branch" branch.
 
 # Getting Started:
